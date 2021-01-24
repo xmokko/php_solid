@@ -1,7 +1,6 @@
 <?php
 
 namespace Person;
-use Person\IPerson;
 
 require_once 'IPerson.php';
 

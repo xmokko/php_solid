@@ -1,0 +1,15 @@
+{
+  "name": "php_solid",
+  "description": "php solid",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "xmokko"
+    }
+  ],
+  "require": {
+    "php": ">7.4.*",
+    "ext-pdo": "*"
+  }
+}
